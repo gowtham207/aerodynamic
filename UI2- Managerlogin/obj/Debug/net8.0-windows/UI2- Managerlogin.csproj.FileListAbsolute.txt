@@ -1,0 +1,17 @@
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\bin\Debug\net8.0-windows\UI2- Managerlogin.exe
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\bin\Debug\net8.0-windows\UI2- Managerlogin.deps.json
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\bin\Debug\net8.0-windows\UI2- Managerlogin.runtimeconfig.json
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\bin\Debug\net8.0-windows\UI2- Managerlogin.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\bin\Debug\net8.0-windows\UI2- Managerlogin.pdb
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\UI2__Managerlogin.Form1.resources
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\UI2__Managerlogin.Properties.Resources.resources
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\UI2- Managerlogin.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\UI2- Managerlogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\UI2- Managerlogin.AssemblyInfoInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\UI2- Managerlogin.AssemblyInfo.cs
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\UI2- Managerlogin.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\UI2- Managerlogin.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\refint\UI2- Managerlogin.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\UI2- Managerlogin.pdb
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\UI2- Managerlogin.genruntimeconfig.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- Managerlogin\obj\Debug\net8.0-windows\ref\UI2- Managerlogin.dll

@@ -1,0 +1,16 @@
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\bin\Debug\net8.0-windows\ui2- managerportal.exe
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\bin\Debug\net8.0-windows\ui2- managerportal.deps.json
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\bin\Debug\net8.0-windows\ui2- managerportal.runtimeconfig.json
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\bin\Debug\net8.0-windows\ui2- managerportal.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\bin\Debug\net8.0-windows\ui2- managerportal.pdb
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\ui2__managerportal.Form1.resources
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\ui2- managerportal.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\ui2- managerportal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\ui2- managerportal.AssemblyInfoInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\ui2- managerportal.AssemblyInfo.cs
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\ui2- managerportal.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\ui2- managerportal.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\refint\ui2- managerportal.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\ui2- managerportal.pdb
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\ui2- managerportal.genruntimeconfig.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- managerportal\obj\Debug\net8.0-windows\ref\ui2- managerportal.dll

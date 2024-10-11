@@ -1,0 +1,16 @@
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\bin\Debug\net8.0-windows\UI2 - adminEmployee.exe
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\bin\Debug\net8.0-windows\UI2 - adminEmployee.deps.json
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\bin\Debug\net8.0-windows\UI2 - adminEmployee.runtimeconfig.json
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\bin\Debug\net8.0-windows\UI2 - adminEmployee.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\bin\Debug\net8.0-windows\UI2 - adminEmployee.pdb
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\UI2___adminEmployee.Form1.resources
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\UI2 - adminEmployee.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\UI2 - adminEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\UI2 - adminEmployee.AssemblyInfoInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\UI2 - adminEmployee.AssemblyInfo.cs
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\UI2 - adminEmployee.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\UI2 - adminEmployee.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\refint\UI2 - adminEmployee.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\UI2 - adminEmployee.pdb
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\UI2 - adminEmployee.genruntimeconfig.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2 - adminEmployee\obj\Debug\net8.0-windows\ref\UI2 - adminEmployee.dll

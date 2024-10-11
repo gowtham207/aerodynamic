@@ -1,0 +1,17 @@
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\bin\Debug\net8.0-windows\ui2- employeelogin.exe
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\bin\Debug\net8.0-windows\ui2- employeelogin.deps.json
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\bin\Debug\net8.0-windows\ui2- employeelogin.runtimeconfig.json
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\bin\Debug\net8.0-windows\ui2- employeelogin.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\bin\Debug\net8.0-windows\ui2- employeelogin.pdb
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ui2__employeelogin.Form1.resources
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ui2__employeelogin.Properties.Resources.resources
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ui2- employeelogin.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ui2- employeelogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ui2- employeelogin.AssemblyInfoInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ui2- employeelogin.AssemblyInfo.cs
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ui2- employeelogin.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ui2- employeelogin.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\refint\ui2- employeelogin.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ui2- employeelogin.pdb
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ui2- employeelogin.genruntimeconfig.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeelogin\obj\Debug\net8.0-windows\ref\ui2- employeelogin.dll

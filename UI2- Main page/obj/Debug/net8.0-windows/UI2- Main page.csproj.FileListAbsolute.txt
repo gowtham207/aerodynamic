@@ -1,0 +1,17 @@
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\bin\Debug\net8.0-windows\UI2- Main page.exe
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\bin\Debug\net8.0-windows\UI2- Main page.deps.json
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\bin\Debug\net8.0-windows\UI2- Main page.runtimeconfig.json
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\bin\Debug\net8.0-windows\UI2- Main page.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\bin\Debug\net8.0-windows\UI2- Main page.pdb
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\UI2__Main_page.Form1.resources
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\UI2__Main_page.Properties.Resources.resources
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\UI2- Main page.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\UI2- Main page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\UI2- Main page.AssemblyInfoInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\UI2- Main page.AssemblyInfo.cs
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\UI2- Main page.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\UI2- Main page.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\refint\UI2- Main page.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\UI2- Main page.pdb
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\UI2- Main page.genruntimeconfig.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- Main page\obj\Debug\net8.0-windows\ref\UI2- Main page.dll

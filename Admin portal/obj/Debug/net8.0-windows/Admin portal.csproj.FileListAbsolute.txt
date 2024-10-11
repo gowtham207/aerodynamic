@@ -1,0 +1,17 @@
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\bin\Debug\net8.0-windows\Admin portal.exe
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\bin\Debug\net8.0-windows\Admin portal.deps.json
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\bin\Debug\net8.0-windows\Admin portal.runtimeconfig.json
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\bin\Debug\net8.0-windows\Admin portal.dll
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\bin\Debug\net8.0-windows\Admin portal.pdb
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\Admin_portal.Form1.resources
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\Admin_portal.Properties.Resources.resources
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\Admin portal.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\Admin portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\Admin portal.AssemblyInfoInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\Admin portal.AssemblyInfo.cs
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\Admin portal.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\Admin portal.dll
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\refint\Admin portal.dll
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\Admin portal.pdb
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\Admin portal.genruntimeconfig.cache
+C:\Users\frees\source\repos\UI2- Main page\Admin portal\obj\Debug\net8.0-windows\ref\Admin portal.dll

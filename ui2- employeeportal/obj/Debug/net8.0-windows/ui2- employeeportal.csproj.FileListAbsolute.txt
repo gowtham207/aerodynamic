@@ -1,0 +1,17 @@
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\bin\Debug\net8.0-windows\ui2- employeeportal.exe
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\bin\Debug\net8.0-windows\ui2- employeeportal.deps.json
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\bin\Debug\net8.0-windows\ui2- employeeportal.runtimeconfig.json
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\bin\Debug\net8.0-windows\ui2- employeeportal.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\bin\Debug\net8.0-windows\ui2- employeeportal.pdb
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ui2__employeeportal.Form1.resources
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ui2- employeeportal.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ui2- employeeportal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ui2- employeeportal.AssemblyInfoInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ui2- employeeportal.AssemblyInfo.cs
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ui2- employeeportal.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ui2- employeeportal.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\refint\ui2- employeeportal.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ui2- employeeportal.pdb
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ui2- employeeportal.genruntimeconfig.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ref\ui2- employeeportal.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2- employeeportal\obj\Debug\net8.0-windows\ui2__employeeportal.Properties.Resources.resources

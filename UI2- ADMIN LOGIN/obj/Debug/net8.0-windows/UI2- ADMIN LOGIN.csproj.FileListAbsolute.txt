@@ -1,0 +1,17 @@
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\bin\Debug\net8.0-windows\UI2- ADMIN LOGIN.exe
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\bin\Debug\net8.0-windows\UI2- ADMIN LOGIN.deps.json
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\bin\Debug\net8.0-windows\UI2- ADMIN LOGIN.runtimeconfig.json
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\bin\Debug\net8.0-windows\UI2- ADMIN LOGIN.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\bin\Debug\net8.0-windows\UI2- ADMIN LOGIN.pdb
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\UI2__ADMIN_LOGIN.Form1.resources
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\UI2__ADMIN_LOGIN.Properties.Resources.resources
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\UI2- ADMIN LOGIN.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\UI2- ADMIN LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\UI2- ADMIN LOGIN.AssemblyInfoInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\UI2- ADMIN LOGIN.AssemblyInfo.cs
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\UI2- ADMIN LOGIN.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\UI2- ADMIN LOGIN.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\refint\UI2- ADMIN LOGIN.dll
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\UI2- ADMIN LOGIN.pdb
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\UI2- ADMIN LOGIN.genruntimeconfig.cache
+C:\Users\frees\source\repos\UI2- Main page\UI2- ADMIN LOGIN\obj\Debug\net8.0-windows\ref\UI2- ADMIN LOGIN.dll

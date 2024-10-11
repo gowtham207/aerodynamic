@@ -1,0 +1,16 @@
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\bin\Debug\net8.0-windows\ui2-admin manager new2.exe
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\bin\Debug\net8.0-windows\ui2-admin manager new2.deps.json
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\bin\Debug\net8.0-windows\ui2-admin manager new2.runtimeconfig.json
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\bin\Debug\net8.0-windows\ui2-admin manager new2.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\bin\Debug\net8.0-windows\ui2-admin manager new2.pdb
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\ui2_admin_manager_new2.Form1.resources
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\ui2-admin manager new2.csproj.GenerateResource.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\ui2-admin manager new2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\ui2-admin manager new2.AssemblyInfoInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\ui2-admin manager new2.AssemblyInfo.cs
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\ui2-admin manager new2.csproj.CoreCompileInputs.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\ui2-admin manager new2.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\refint\ui2-admin manager new2.dll
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\ui2-admin manager new2.pdb
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\ui2-admin manager new2.genruntimeconfig.cache
+C:\Users\frees\source\repos\UI2- Main page\ui2-admin manager new2\obj\Debug\net8.0-windows\ref\ui2-admin manager new2.dll
